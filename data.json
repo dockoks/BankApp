@@ -1,0 +1,14 @@
+[
+    {
+        "name": "name",
+        "category": "category",
+        "currency": "currency",
+        "amount": 12346
+    },
+    {
+        "name": "name",
+        "category": "category",
+        "currency": "currency",
+        "amount": 12346
+    }
+]
