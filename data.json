@@ -2,13 +2,11 @@
     {
         "name": "name",
         "category": "category",
-        "currency": "currency",
-        "amount": 12346
+        "amount": "$43,236.0"
     },
     {
         "name": "name",
         "category": "category",
-        "currency": "currency",
-        "amount": 12346
+        "amount": "$43,236.0"
     }
 ]
